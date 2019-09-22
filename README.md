@@ -1,4 +1,4 @@
-# Trading Strategy for SPY
+# 交易策略與回測，以『SPY: SPDR S&P 500 ETF』為例
 
 ### 背景說明
 - 這是台大『金融科技導論』期末專題
